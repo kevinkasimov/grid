@@ -1,4 +1,4 @@
-# 3.14 Exercises
+# Think Python 3.14 Exercises
 # Exercise 3.3
 
 def draw_grid():
